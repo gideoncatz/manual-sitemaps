@@ -1,0 +1,2 @@
+# manual-sitemaps
+Manually genera
