@@ -1,2 +1,2 @@
 # manual-sitemaps
-Manually genera
+Manually generated sitemaps for feeding archon knowledgebase creation
