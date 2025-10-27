@@ -21,6 +21,8 @@ Important! Sitemaps are to be crawled with depth of 2 (default), so it does reso
   | 8   | Tailwind CSS Documentation             | <https://gideoncatz.github.io/manual-sitemaps/tailwindcss-sitemap.xml>                            | Sitemap                                             | 2
   | 9   | shadcn/ui Documentation                | <https://gideoncatz.github.io/manual-sitemaps/shadcn-ui-sitemap.xml>                              | Sitemap                                             | 2
   | 10  | D3 Documentation                       | <https://d3js.org/sitemap.xml>                                                                  | Sitemap                                             | 2
+  | -   | TanStack Router                        | <https://gideoncatz.github.io/manual-sitemaps/tanstack-router-sitemap.xml>                      | Sitemap                                             | 2
+  | -   | TanStack Query                         | <https://gideoncatz.github.io/manual-sitemaps/tanstack-query-sitemap.xml>                      | Sitemap                                             | 2
 
 ## Backend Frameworks
 
