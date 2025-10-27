@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/overview</loc>
+	<lastmod>2025-10-27T22:17:12+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/basic</loc>
+	<lastmod>2025-10-27T22:17:12+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/contributors</loc>
+	<lastmod>2025-10-27T22:17:12+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/installation</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/quick-start</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/devtools</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/videos</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/comparison</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/typescript</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/graphql</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/react-native</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/important-defaults</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/queries</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/query-keys</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/query-functions</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/query-options</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/network-mode</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/parallel-queries</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/dependent-queries</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/background-fetching-indicators</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/window-focus-refetching</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/disabling-queries</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/query-retries</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/paginated-queries</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/infinite-queries</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/initial-query-data</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/placeholder-query-data</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/mutations</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/query-invalidation</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/invalidations-from-mutations</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/updates-from-mutation-responses</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/optimistic-updates</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/query-cancellation</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/scroll-restoration</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/filters</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/request-waterfalls</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/prefetching</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/ssr</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/advanced-ssr</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/caching</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/render-optimizations</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/default-query-function</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/suspense</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/testing</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/does-this-replace-client-state</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/migrating-to-react-query-3</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/migrating-to-react-query-4</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/guides/migrating-to-v5</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/reference/QueryClient</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/reference/QueryCache</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/reference/MutationCache</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/reference/QueryObserver</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/reference/InfiniteQueryObserver</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/reference/QueriesObserver</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/reference/streamedQuery</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/reference/focusManager</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/reference/onlineManager</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/reference/notifyManager</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/reference/timeoutManager</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/useQuery</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/useQueries</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/useInfiniteQuery</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/useMutation</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/useIsFetching</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/useIsMutating</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/useMutationState</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/useSuspenseQuery</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/useSuspenseInfiniteQuery</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/useSuspenseQueries</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/QueryClientProvider</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/useQueryClient</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/queryOptions</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/infiniteQueryOptions</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/mutationOptions</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/usePrefetchQuery</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/usePrefetchInfiniteQuery</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/QueryErrorResetBoundary</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/useQueryErrorResetBoundary</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/reference/hydration</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/eslint/eslint-plugin-query</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/eslint/exhaustive-deps</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/eslint/stable-query-client</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/eslint/no-rest-destructuring</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/eslint/no-unstable-deps</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/eslint/infinite-query-property-order</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/community/tkdodos-blog</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/community/community-projects</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/simple</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/basic-graphql-request</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/auto-refetching</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/optimistic-updates-ui</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/optimistic-updates-cache</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/pagination</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/load-more-infinite-scroll</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/infinite-query-with-max-pages</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/suspense</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/default-query-function</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/playground</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/prefetching</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/star-wars</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/rick-morty</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/nextjs</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/nextjs-app-prefetching</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/nextjs-suspense-streaming</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/react-native</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/react-router</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/offline</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/algolia</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/shadow-dom</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/devtools-panel</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/examples/chat</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/plugins/persistQueryClient</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/plugins/createSyncStoragePersister</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/plugins/createAsyncStoragePersister</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/plugins/broadcastQueryClient</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://tanstack.com/query/latest/docs/framework/react/plugins/createPersister</loc>
+	<lastmod>2025-10-27T22:17:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+</urlset>
