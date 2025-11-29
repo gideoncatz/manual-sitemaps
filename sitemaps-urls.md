@@ -56,6 +56,8 @@ Important! Sitemaps are to be crawled with depth of 2 (default), so it does reso
   | 26  | SQLModel Documentation                 | <https://gideoncatz.github.io/manual-sitemaps/sqlmodel-sitemap.xml>                              | Sitemap                                             | 2
   | 27  | pgvector Extension                     | <https://gideoncatz.github.io/manual-sitemaps/pgvector-sitemap.xml>                              | Sitemap                                             | 2
   | 28  | Atlas Schema Management                | <https://gideoncatz.github.io/manual-sitemaps/atlas-sitemap.xml>                                 | Sitemap                                             | 2
+  | 28a | Prisma ORM                            | <https://www.prisma.io/docs/sitemap.xml>                                                          | Sitemap                                             | 2
+
 
 ## Infrastructure & Container Orchestration
 
