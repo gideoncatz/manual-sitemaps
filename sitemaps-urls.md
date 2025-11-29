@@ -115,6 +115,7 @@ Important! Sitemaps are to be crawled with depth of 2 (default), so it does reso
   | 53  | Git Documentation                      | <https://gideoncatz.github.io/manual-sitemaps/git-sitemap.xml>                                   | Sitemap                                             | 2
   | 54  | GitHub Actions Documentation           | <https://gideoncatz.github.io/manual-sitemaps/github-actions-sitemap.xml>                        | Sitemap                                             | 2
   | 55  | ESLint Documentation                   | <https://eslint.org/docs/latest/sitemap.xml>                                                    | Sitemap                                             | 2
+  | 55a | Prettier Documentation                 | <https://prettier.io/sitemap.xml>                                                               | Sitemap                                             | 2
   | 56  | Deno Documentation                     | <https://docs.deno.com/sitemap.xml>                                                             | Sitemap                                             | 2
 
 ## Cloud Platforms
