@@ -1,0 +1,1849 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://nx.dev/</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/getting-started/intro</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/blog</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/ai</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/enterprise</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/contact</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/blog/payfit-success-story</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/blog/hetzner-cloud-success-story</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/blog/ukg-success-story</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/blog/nx-agents-changes-the-math</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/decisions/why-monorepos</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/run-tasks</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/cache-task-results</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/terminal-ui</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/nx-plugins</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/enhance-ai</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/ci-features/remote-cache</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/ci-features/distribute-task-execution</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/ci-features/self-healing-ci</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/enforce-module-boundaries</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/enterprise/owners</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/enterprise/conformance</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/plugin-registry</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/generate-code</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/automate-updating-dependencies</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/customers</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/company</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/webinar</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/community</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/ci-features</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/careers</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/brands</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/getting-started/tutorials</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/podcast</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/courses</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/solutions/leadership</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/partners</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/enterprise/security</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/contact/labs</loc>
+	<lastmod>2025-12-11T20:32:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/getting-started/ai-setup</loc>
+	<lastmod>2025-12-11T20:32:20+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/blog/nx-mcp-vscode-copilot</loc>
+	<lastmod>2025-12-11T20:32:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/blog/nx-terminal-integration-ai</loc>
+	<lastmod>2025-12-11T20:32:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/blog/nx-generators-ai-integration</loc>
+	<lastmod>2025-12-11T20:32:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/ci-features/flaky-tasks</loc>
+	<lastmod>2025-12-11T20:32:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/blog/nx-self-healing-ci</loc>
+	<lastmod>2025-12-11T20:32:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/ci-features/dynamic-agents</loc>
+	<lastmod>2025-12-11T20:32:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/blog/nx-cloud-analyze-via-nx-mcp</loc>
+	<lastmod>2025-12-11T20:32:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/getting-started/installation</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/getting-started/start-new-project</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/getting-started/start-with-existing-project</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/getting-started/editor-setup</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/getting-started/nx-cloud</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/getting-started/tutorials/angular-monorepo-tutorial</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/getting-started/tutorials/gradle-tutorial</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/getting-started/tutorials/react-monorepo-tutorial</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/getting-started/tutorials/typescript-packages-tutorial</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/explore-graph</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/maintain-typescript-monorepos</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/manage-releases</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/ci-features/affected</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/ci-features/split-e2e-tasks</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/features/ci-features/github-integration</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/installation/install-non-javascript</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/installation/update-global-installation</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/adopting-nx/adding-to-existing-project</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/adopting-nx/adding-to-monorepo</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/adopting-nx/from-turborepo</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/adopting-nx/import-project</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/adopting-nx/manual</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/adopting-nx/preserving-git-histories</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/ci-deployment</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/enforce-module-boundaries/ban-dependencies-with-tags</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/enforce-module-boundaries/ban-external-imports</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/enforce-module-boundaries/tag-multiple-dimensions</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/enforce-module-boundaries/tags-allow-list</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/source-control-integration/azure-devops</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/source-control-integration/bitbucket</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/source-control-integration/github</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/source-control-integration/gitlab</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/access-tokens</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/ci-resource-usage</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/cipe-affected-project-graph</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/enable-ai-features</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/encryption</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/google-auth</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/manual-dte</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/optimize-your-ttg</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/personal-access-tokens</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/record-commands</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-cloud/setup-ci</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-console/console-generate-command</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-console/console-migrate-ui</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-console/console-nx-cloud</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-console/console-project-details</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-console/console-run-command</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-console/console-telemetry</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-console/console-troubleshooting</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/automate-github-releases</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/automate-gitlab-releases</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/automatically-version-with-conventional-commits</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/build-before-versioning</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/configuration-version-prefix</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/configure-changelog-format</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/configure-custom-registries</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/customize-conventional-commit-types</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/file-based-versioning-version-plans</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/programmatic-api</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/publish-in-ci-cd</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/publish-rust-crates</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/release-docker-images</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/release-groups</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/release-npm-packages</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/release-projects-independently</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/update-dependents</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/update-local-registry-setup</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/nx-release/updating-version-references</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/change-cache-location</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/configure-inputs</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/configure-outputs</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/convert-to-inferred</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/defining-task-pipeline</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/pass-args-to-commands</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/reduce-repetitive-configuration</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/root-level-scripts</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/run-commands-executor</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/run-tasks-in-parallel</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/self-hosted-caching</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/skipping-cache</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tasks--caching/workspace-watching</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tips-n-tricks/advanced-update</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tips-n-tricks/analyze-source-files</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tips-n-tricks/browser-support</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tips-n-tricks/define-environment-variables</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tips-n-tricks/feature-based-testing</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tips-n-tricks/identify-dependencies-between-folders</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tips-n-tricks/include-all-packagejson</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tips-n-tricks/include-assets-in-build</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tips-n-tricks/keep-nx-versions-in-sync</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tips-n-tricks/standalone-to-monorepo</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/guides/tips-n-tricks/yarn-pnp</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/buildable-and-publishable-libraries</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/common-tasks</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/executors-and-configurations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/how-caching-works</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/inferred-tasks</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/mental-model</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/nx-daemon</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/sync-generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/task-pipeline-configuration</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/types-of-configuration</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/typescript-project-linking</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/decisions/code-ownership</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/decisions/dependency-management</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/decisions/folder-structure</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/decisions/overview</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/decisions/project-dependency-rules</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/decisions/project-size</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/ci-concepts/building-blocks-fast-ci</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/ci-concepts/cache-security</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/ci-concepts/heartbeat-and-manual-shutdown-handling</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/ci-concepts/parallelization-distribution</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/concepts/ci-concepts/reduce-waste</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/typescript/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/typescript/guides/compile-multiple-formats</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/typescript/guides/define-secondary-entrypoints</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/typescript/guides/enable-tsc-batch-mode</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/typescript/guides/js-and-ts</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/typescript/guides/switch-to-workspaces-project-references</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/typescript/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/typescript/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/typescript/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/guides/angular-nx-version-matrix</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/guides/dynamic-module-federation-with-angular</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/guides/module-federation-with-ssr</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/guides/nx-and-angular</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/guides/nx-devkit-angular-devkit</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/guides/setup-incremental-builds-angular</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/guides/use-environment-variables-in-angular</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/guides/using-tailwind-css-with-angular-projects</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/migration/angular-multiple</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/migration/angular</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/angular-rspack/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/angular-rspack/guides/getting-started</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/angular-rspack/guides/handling-configurations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/angular-rspack/guides/internationalization</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/angular-rspack/guides/migrate-from-webpack</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/angular-rspack/create-config</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/angular-rspack/create-server</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/angular-rsbuild/create-config</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/angular/angular-rsbuild/create-server</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/guides/adding-assets-react</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/guides/deploy-nextjs-to-vercel</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/guides/module-federation-with-ssr</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/guides/react-compiler</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/guides/react-router</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/guides/use-environment-variables-in-react</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/guides/using-tailwind-css-in-react</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/next/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/next/guides/next-config-setup</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/next/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/next/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/next/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/remix/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/remix/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/remix/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/remix/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/react-native/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/react-native/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/react-native/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/react-native/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/expo/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/expo/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/expo/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/react/expo/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/vue/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/vue/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/vue/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/vue/nuxt/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/vue/nuxt/guides/deploy-nuxt-to-vercel</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/vue/nuxt/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/vue/nuxt/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/guides/application-proxies</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/guides/node-aws-lambda</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/guides/node-server-fly-io</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/guides/node-serverless-functions-netlify</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/guides/wait-for-tasks</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/express/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/express/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/nest/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/nest/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/node/nest/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/java/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/java/gradle/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/java/gradle/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/java/gradle/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/java/gradle/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/java/maven/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/java/maven/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/java/maven/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/dotnet/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/dotnet/guides/incremental-builds</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/dotnet/guides/migrate-from-nx-dotnet-core</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/dotnet/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/module-federation/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/module-federation/guides/create-a-host</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/module-federation/guides/create-a-remote</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/module-federation/guides/federate-a-module</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/module-federation/guides/nx-module-federation-dev-server-plugin</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/module-federation/guides/nx-module-federation-plugin</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/module-federation/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/module-federation/concepts/faster-builds-with-module-federation</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/module-federation/concepts/manage-library-versions-with-module-federation</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/module-federation/concepts/micro-frontend-architecture</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/module-federation/concepts/module-federation-and-nx</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/module-federation/concepts/nx-module-federation-technical-overview</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/eslint/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/eslint/guides/custom-workspace-rules</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/eslint/guides/eslint</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/eslint/guides/flat-config</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/eslint/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/eslint/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/eslint/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/eslint/eslint-plugin/guides/dependency-checks</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/eslint/eslint-plugin/guides/enforce-module-boundaries</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/eslint/eslint-plugin/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/webpack/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/webpack/guides/webpack-config-setup</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/webpack/guides/webpack-plugins</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/webpack/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/webpack/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/webpack/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/vite/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/vite/guides/configure-vite</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/vite/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/vite/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/rollup/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/rollup/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/esbuild/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/esbuild/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/rspack/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/rspack/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/rsbuild/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/build-tools/rsbuild/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/cypress/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/cypress/guides/cypress-component-testing</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/cypress/guides/cypress-v11-migration</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/cypress/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/cypress/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/vitest/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/vitest/guides/testing-without-building-dependencies</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/vitest/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/vitest/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/jest/executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/playwright/guides/merge-atomized-outputs</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/storybook/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/storybook/guides/best-practices</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/storybook/guides/one-storybook-for-all</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/storybook/guides/overview-angular</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/storybook/guides/storybook-composition-setup</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/storybook/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/detox/introduction</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/technologies/test-tools/detox/migrations</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/enterprise/custom-workflows</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/enterprise/single-tenant/auth-bitbucket</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/enterprise/single-tenant/auth-gitlab</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/enterprise/single-tenant/okta-saml</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/extending-nx/compose-executors</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/extending-nx/create-preset</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/extending-nx/creating-files</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/extending-nx/migration-generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/extending-nx/project-graph-plugins</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/extending-nx/tooling-plugin</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/project-configuration</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/environment-variables</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/changelog</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/create-nx-workspace</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/nx-console-settings</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/benchmarks/tsc-batch-mode</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/conformance/generators</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/ngcli_adapter/mockSchematicsForTesting</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/AsyncIteratorExecutor</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/CreateDependenciesContext</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/CreateNodesContextV2</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/CreateNodesResultV2</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/DefaultTasksRunnerOptions</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/Executor</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/ExpandedPluginConfiguration</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/FileMap</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/GeneratorsJson</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/Hasher</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/ImplicitDependencyEntry</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/JsonSerializeOptions</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/NX_VERSION</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/NxPlugin</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/PackageManager</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/PostTasksExecutionContext</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/ProjectConfiguration</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/ProjectGraphDependency</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/ProjectType</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/PromiseExecutor</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/StaleProjectGraphCacheError</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/StringDeletion</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/TargetConfiguration</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/Task</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/TaskHasher</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/ToJSOptions</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/WorkspaceJsonConfiguration</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/applyChangesToString</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/convertNxGenerator</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/createProjectGraphAsync</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/ensurePackage</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/generateFiles</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/getPackageManagerCommand</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/getWorkspaceLayout</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/hashArray</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/isWorkspacesEnabled</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://nx.dev/docs/reference/devkit/moveFilesToNewDirectory</loc>
+	<lastmod>2025-12-11T20:32:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+</urlset>
