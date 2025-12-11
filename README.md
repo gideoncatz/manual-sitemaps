@@ -118,12 +118,14 @@ Important! Sitemaps are to be crawled with depth of 2 (default), so it does reso
 | 3   | ESLint Documentation                   | <https://eslint.org/docs/latest/sitemap.xml>                                       | Sitemap                                             | 2
 | 4   | Prettier Documentation                 | <https://prettier.io/sitemap.xml>                                                  | Sitemap                                             | 2
 | 5   | Nx Monorepo Documentation              | <https://gideoncatz.github.io/manual-sitemaps/nx-monorepo-sitemap.xml>             | Sitemap                                             | 2
+| 6   | Mermaid Charts Documentation           | <https://gideoncatz.github.io/manual-sitemaps/mermaid-charts-sitemap.xml>          | Sitemap                                             | 2
 
 ## Cloud Platforms
 
-| #   | Title                                  | URL                                                                                           | Type                                                | Depth
-|-----|----------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------|------
-| 1   | AWS Documentation (includes DynamoDB)  | <https://docs.aws.amazon.com/llms.txt>                                                           | llms.txt                                            | 2
+| # | Title                                  | URL                                                                                           | Type                                                | Depth
+|---|----------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------|------
+| 1 | AWS Documentation (includes DynamoDB)  | <https://docs.aws.amazon.com/llms.txt>                                                           | llms.txt                                            | 2
+| 2 | Google Cloud Run Platform              |                                                                                                  | llms.txt                                            | 2
 
 ## Articles & Best Practices
 
