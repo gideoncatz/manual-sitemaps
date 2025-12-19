@@ -126,6 +126,7 @@ Important! Sitemaps are to be crawled with depth of 2 (default), so it does reso
 |---|----------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------|------
 | 1 | AWS Documentation (includes DynamoDB)  | <https://docs.aws.amazon.com/llms.txt>                                                           | llms.txt                                            | 2
 | 2 | Google Cloud Run Platform              |                                                                                                  | llms.txt                                            | 2
+| 2 | Render                                 | <https://render.com/llms.txt>                                                                    | llms.txt                                            | 2
 
 ## Articles & Best Practices
 
