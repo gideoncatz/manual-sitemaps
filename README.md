@@ -48,7 +48,7 @@ Important! Sitemaps are to be crawled with depth of 2 (default), so it does reso
 
 | #   | Title                                  | URL                                                                                           | Type                                                | Depth
   |-----|----------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------|------
-| 1   | PostgreSQL Documentation               | <https://gideoncatz.github.io/manual-sitemaps/postgresql-sitemap.xml>                            | Sitemap                                             | 2
+| 1   | PostgreSQL 18 Documentation            | <https://gideoncatz.github.io/manual-sitemaps/postgresql-18-sitemap.xml>                            | Sitemap                                             | 2
 | 2   | MongoDB Documentation                  | <https://gideoncatz.github.io/manual-sitemaps/mongodb-sitemap.xml>                                | Sitemap                                             | 2
 | 3   | Redis Documentation (llms.txt)         | <https://redis.io/llms.txt>                                                                      | llms.txt                                            | 2
 | 4   | ElasticSearch Documentation            | <https://gideoncatz.github.io/manual-sitemaps/elasticsearch-sitemap.xml>                         | Sitemap                                             | 2
