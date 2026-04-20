@@ -126,8 +126,14 @@ Important! Sitemaps are to be crawled with depth of 2 (default), so it does reso
 | # | Title                                  | URL                                                                                           | Type                                                | Depth
 |---|----------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------|------
 | 1 | AWS Documentation (includes DynamoDB)  | <https://docs.aws.amazon.com/llms.txt>                                                           | llms.txt                                            | 2
-| 2 | Google Cloud Run Platform              |                                                                                                  | llms.txt                                            | 2
-| 2 | Render                                 | <https://render.com/llms.txt>                                                                    | llms.txt                                            | 2
+
+## AI tools and frameworks
+
+| # | Title                               | URL                                                                                          | Type     | Depth
+|---|-------------------------------------|----------------------------------------------------------------------------------------------|----------|------
+| 1 | Gooogle ADK (Agent Development Kit) | <https://google.github.io/adk-docs/sitemap.xml>                                                  | llms.txt | 2
+| 2 | Render                              | <https://render.com/llms.txt>                                                                   | llms.txt | 2
+| 3 | FrontEgg                            | <https://gideoncatz.github.io/manual-sitemaps/git-sitemap.xml>                                   | Sitemap  | 2
 
 ## Articles & Best Practices
 
