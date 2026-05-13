@@ -1,403 +1,492 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/overview</loc>
-	<lastmod>2025-10-27T22:17:12+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/ActiveLinkOptionsType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/kitchen-sink-file-based</loc>
-	<lastmod>2025-10-27T22:17:12+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/AsyncRouteComponentType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/contributors</loc>
-	<lastmod>2025-10-27T22:17:12+01:00</lastmod>
-	<priority>0.4</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/FileRouteClass</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.4</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/LinkOptionsType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/quick-start</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/LinkPropsType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/devtools</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/MatchRouteOptionsType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/decisions-on-dx</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/NavigateOptionsType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/llm-support</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/NotFoundErrorType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/comparison</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/NotFoundRouteClass</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/faq</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/ParsedHistoryStateType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/installation/manual</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/ParsedLocationType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/installation/with-vite</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RedirectType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/installation/with-rspack</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RegisterType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/installation/with-webpack</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RootRouteClass</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/installation/with-esbuild</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RouteApiClass</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/installation/with-router-cli</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RouteApiType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/installation/migrate-from-react-router</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RouteClass</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/installation/migrate-from-react-location</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RouteMaskType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/routing/routing-concepts</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RouteMatchType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/routing/route-trees</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RouteOptionsType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/routing/route-matching</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RouteType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/routing/file-based-routing</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RouterClass</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/routing/virtual-file-routes</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RouterEventsType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/routing/code-based-routing</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RouterOptionsType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/routing/file-naming-conventions</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RouterStateType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/code-splitting</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/RouterType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/automatic-code-splitting</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/ToMaskOptionsType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/creating-a-router</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/ToOptionsType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/outlets</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/UseMatchRouteOptionsType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/navigation</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/ViewTransitionOptionsType</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/path-params</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/awaitComponent</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/search-params</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/catchBoundaryComponent</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/link-options</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/catchNotFoundComponent</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/custom-link</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/clientOnlyComponent</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/data-loading</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/createFileRouteFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/deferred-data-loading</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/createLazyFileRouteFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/external-data-loading</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/createLazyRouteFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/data-mutations</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/createRootRouteFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/type-safety</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/createRootRouteWithContextFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/type-utilities</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/createRouteFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/preloading</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/createRouteMaskFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/document-head-management</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/createRouterFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/route-masking</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/defaultGlobalNotFoundComponent</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/navigation-blocking</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/deferFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/custom-search-param-serialization</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/errorComponentComponent</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/history-types</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/getRouteApiFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/router-context</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/historyStateInterface</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/not-found-errors</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/isNotFoundFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/authenticated-routes</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/isRedirectFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/scroll-restoration</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/lazyRouteComponentFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/static-route-data</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/linkComponent</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/ssr</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/linkOptions</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/guide/render-optimizations</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/matchRouteComponent</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/api/file-based-routing</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.2</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/navigateComponent</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/api/router</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/notFoundComponentComponent</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/integrations/query</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.2</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/notFoundFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/eslint/eslint-plugin-router</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.2</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/outletComponent</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/eslint/create-route-property-order</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.2</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/redirectFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/quickstart-file-based</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/retainSearchParamsFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/quickstart</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/rootRouteWithContextFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/basic-file-based</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/stripSearchParamsFunction</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/basic</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useAwaitedHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/basic-react-query-file-based</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useBlockerHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/basic-react-query</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useCanGoBack</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/basic-ssr-file-based</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useChildMatchesHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/basic-ssr-streaming-file-based</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useLinkPropsHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/kitchen-sink</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useLoaderDataHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/kitchen-sink-react-query-file-based</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useLoaderDepsHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/kitchen-sink-react-query</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useLocationHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/location-masking</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useMatchHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/authenticated-routes</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useMatchRouteHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/scroll-restoration</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useMatchesHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/deferred-data</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useNavigateHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/navigation-blocking</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useParamsHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/view-transitions</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useParentMatchesHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/with-trpc</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useRouteContextHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/with-trpc-react-query</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useRouterHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/router-monorepo-simple</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useRouterStateHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/router-monorepo-simple-lazy</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/router/useSearchHook</loc>
 </url>
 <url>
-	<loc>https://tanstack.com/router/latest/docs/framework/react/examples/router-monorepo-react-query</loc>
-	<lastmod>2025-10-27T22:17:15+01:00</lastmod>
-	<priority>0.1</priority>
+<loc>https://tanstack.com/router/latest/docs/api/file-based-routing</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/api/router</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/eslint/create-route-property-order</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/eslint/eslint-plugin-router</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/authenticated-routes</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/automatic-code-splitting</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/code-splitting</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/creating-a-router</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/custom-link</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/custom-search-param-serialization</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/data-loading</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/data-mutations</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/deferred-data-loading</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/document-head-management</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/external-data-loading</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/history-types</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/internationalization-i18n</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/link-options</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/navigation-blocking</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/navigation</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/not-found-errors</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/outlets</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/parallel-routes</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/path-params</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/preloading</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/render-optimizations</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/route-masking</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/router-context</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/router-events</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/scroll-restoration</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/search-params</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/ssr</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/static-route-data</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/type-safety</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/type-utilities</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/guide/url-rewrites</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/drafts/README</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/drafts/build-search-filtering-systems.draft</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/drafts/optimize-search-param-performance.draft</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/drafts/search-params-in-forms.draft</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/README</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/arrays-objects-dates-search-params</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/debug-router-issues</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/deploy-to-production</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/install</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/integrate-chakra-ui</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/integrate-framer-motion</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/integrate-material-ui</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/integrate-shadcn-ui</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/migrate-from-react-router</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/navigate-with-search-params</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/setup-auth-providers</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/setup-authentication</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/setup-basic-search-params</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/setup-rbac</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/setup-ssr</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/setup-testing</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/share-search-params-across-routes</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/test-file-based-routing</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/use-environment-variables</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/how-to/validate-search-params</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/installation/manual</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/installation/migrate-from-react-location</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/installation/migrate-from-react-router</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/installation/with-esbuild</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/installation/with-router-cli</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/installation/with-rspack</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/installation/with-vite</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/installation/with-webpack</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/integrations/query</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/routing/code-based-routing</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/routing/file-based-routing</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/routing/file-naming-conventions</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/routing/route-matching</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/routing/route-trees</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/routing/routing-concepts</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/routing/virtual-file-routes</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/comparison</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/decisions-on-dx</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/devtools</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/faq</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/llm-support</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/overview</loc>
+</url>
+<url>
+<loc>https://tanstack.com/router/latest/docs/quick-start</loc>
 </url>
 </urlset>
